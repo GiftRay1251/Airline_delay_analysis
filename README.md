@@ -27,4 +27,4 @@ Analysis based on flight records including departure/arrival times, delays, carr
 
 ## Getting Started
 
-Clone the repository and open `flight_delay_analysis.ipynb` to explore the complete analysis workflow from data cleaning through insights generation.
+Clone the repository and open [flight_delay_analysis.ipynb](flight_delay_analysis.ipynb) to explore the complete analysis workflow.
