@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="airline_image.png" alt="Flight Delay Analysis" width="600">
+  <img src="airline_image.png" alt="Flight Delay Analysis" width="1000">
 </div>
 
 # Flight Delay Analysis
